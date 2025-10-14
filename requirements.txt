@@ -1,0 +1,12 @@
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+plotly
+tqdm
+pytz
+MetaTrader5
+contextlib
+
